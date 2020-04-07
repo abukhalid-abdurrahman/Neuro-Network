@@ -1,5 +1,5 @@
 #Распознавание лиц
-#Запуск: python face_detect_cv3.py Name_Of_Image.jpg haarcascade_frontalface_default.xml
+#Запуск: python Face.py Name_Of_Image.jpg haarcascade_frontalface_default.xml
 import cv2
 import sys
 
